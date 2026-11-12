@@ -14,7 +14,7 @@
       <a class="bs-support-guided" href="https://bittersoftworks-support.web.app/">Open guided help / Abrir ayuda</a>
       <a class="bs-support-link" href="https://eddydavila.github.io/whatsout-website/">OutCalled <span>App information and product help ↗</span></a>
       <a class="bs-support-link" href="https://bittersoftworks-ppb-relay.web.app/support.html">Personal Panic Button <span>Setup, trusted contacts and tracking help ↗</span></a>
-      <a class="bs-support-email" href="mailto:davilapps@gmail.com?subject=BitterSoft%20product%20support">Email BitterSoft support ↗</a>
+      <a class="bs-support-email" href="mailto:bittersoftworks@gmail.com?subject=BitterSoft%20product%20support">Email BitterSoft support ↗</a>
       <p class="bs-support-note">Your email app opens; you review and send the message. Do not include passwords, private tracking links, payment details or emergency information.</p>
       <p class="bs-support-emergency">In immediate danger? Contact local emergency services. This panel is not monitored for emergencies.</p></div>
     </section>`;
